@@ -28,7 +28,6 @@ def word_addition(English, Korean):
 	possible_answer_edit(English)
 
 def possible_answer_edit(English):
-
 	#단어 테스트를 진행할 때 가능한 정답들(answewrlist)을 wordlist와 비교하여 만들어 냅니다. 
 	#기본적으로 문자열의 공백은 없애며, 영어가 포합된다면 소문자로 저장됩니다.
 	try:
