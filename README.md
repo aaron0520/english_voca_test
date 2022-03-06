@@ -11,4 +11,4 @@
 ***
 ## 3. English_Vocabulary_Test.py
  - 기능: '추가', '단어장', '테스트', '검색', '삭제' 기능으로 이루어집니다.
- - 필요 라이브러리 및 모듈: BeautifulSoup, requests, random, picksle
+ - 필요 라이브러리 및 모듈: BeautifulSoup, requests, random, pickle
